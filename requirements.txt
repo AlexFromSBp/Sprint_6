@@ -1,0 +1,14 @@
+selenium==4.29.0
+pytest==5.4.3
+allure-python-commons==2.13.5
+utils==1.0.2
+helpers==0.2.0
+allure-pytest==2.13.5
+allure-python-commons==2.13.5
+packaging==24.0
+pluggy==1.5.0
+pycparser==2.22
+PySocks==1.7.1
+pytest==8.3.4
+selenium==4.19.0
+websocket-client==1.8.0
